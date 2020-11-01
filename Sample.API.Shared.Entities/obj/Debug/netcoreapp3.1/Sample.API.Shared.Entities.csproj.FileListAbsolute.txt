@@ -1,0 +1,8 @@
+C:\Sample\Sample.API\Sample.API.Shared.Entities\bin\Debug\netcoreapp3.1\Sample.API.Shared.Entities.deps.json
+C:\Sample\Sample.API\Sample.API.Shared.Entities\bin\Debug\netcoreapp3.1\Sample.API.Shared.Entities.dll
+C:\Sample\Sample.API\Sample.API.Shared.Entities\bin\Debug\netcoreapp3.1\Sample.API.Shared.Entities.pdb
+C:\Sample\Sample.API\Sample.API.Shared.Entities\obj\Debug\netcoreapp3.1\Sample.API.Shared.Entities.AssemblyInfoInputs.cache
+C:\Sample\Sample.API\Sample.API.Shared.Entities\obj\Debug\netcoreapp3.1\Sample.API.Shared.Entities.AssemblyInfo.cs
+C:\Sample\Sample.API\Sample.API.Shared.Entities\obj\Debug\netcoreapp3.1\Sample.API.Shared.Entities.csproj.CoreCompileInputs.cache
+C:\Sample\Sample.API\Sample.API.Shared.Entities\obj\Debug\netcoreapp3.1\Sample.API.Shared.Entities.dll
+C:\Sample\Sample.API\Sample.API.Shared.Entities\obj\Debug\netcoreapp3.1\Sample.API.Shared.Entities.pdb
